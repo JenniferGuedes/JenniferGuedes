@@ -11,6 +11,7 @@ Atualmente, estudo **JavaScript** para criar interatividade em meus projetos, co
 Apaixonada por cores quentes, desenvolvo páginas web com paletas que remetem a conforto e felicidade, para mudar um pouco do que estamos acostumados a ver nos dias de hoje. Por isso, venho com a temática de abelhas em meu Portfólio, e em todo o lugar possível do meu Github, afinal, o estou construindo como um livro de histórias sobre minha nova jornada. 
 
 ## 🐝Projetos em destaque:
+ - [Half-Life, Love Shift](https://jenniferguedes.github.io/half-life/)
  - [La Luna Velas](https://github.com/JenniferGuedes/La-Luna-Velas)
  - [Conecta Sênior](https://jenniferguedes.github.io/Conecta-Senior/)
 

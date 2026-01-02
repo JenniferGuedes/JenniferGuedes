@@ -8,7 +8,7 @@ Me chamo Jennifer, sou uma Dev Front-End em processo de aprendizagem.
 Atualmente, estudo **JavaScript** para criar interatividade em meus projetos, construindo experiências ímpares ao usuário que os acessar. Além disso, construo meus sites em HTML5 e CSS3, garantindo um código limpo, moderno e organizado. 
 
 ## 🐝Estilo de design
-Apaixonada por cores quentes, desenvolvo páginas web com paletas que remetem a conforto e felicidade, para mudar um pouco do que estamos acostumados a ver nos dias de hoje. Por isso, venho com a temática de abelhas em meu Portfólio, e em todo o lugar possível do meu Github, afinal, o estou construindo como um livro de histórias sobre minha nova jornada. Fã numero 1 da fonte Montserrat, a uso em quase todos os meus novos projetos.
+Apaixonada por cores quentes, desenvolvo páginas web com paletas que remetem a conforto e felicidade, para mudar um pouco do que estamos acostumados a ver nos dias de hoje. Por isso, venho com a temática de abelhas em meu Portfólio, e em todo o lugar possível do meu Github, afinal, o estou construindo como um livro de histórias sobre minha nova jornada. Fã número 1 da fonte Montserrat, a uso em quase todos os meus novos projetos.
 
 ## 🐝Projetos em destaque:
  - [Half-Life, Love Shift](https://jenniferguedes.github.io/half-life/)
